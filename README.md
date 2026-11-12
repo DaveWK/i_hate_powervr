@@ -1,5 +1,9 @@
 # i_hate_powervr
 
+> "Dear Harry, who's responsible? Sign that, 'Affectionately, A Dissatisfied Customer.'"
+>
+> — Hawkeye Pierce, dictating his telegram to Harry S. Truman, *M\*A\*S\*H*, "Dr. Pierce and Mr. Hyde" (1973)
+
 Open, clean-room replacements for the closed parts of Imagination Technologies' PowerVR GPU stack, so you can run
 these GPUs without Imagination's proprietary code and eventually forget it ever existed.
 
