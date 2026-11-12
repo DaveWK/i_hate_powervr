@@ -5,9 +5,10 @@ these GPUs without Imagination's proprietary code and eventually forget it ever 
 
 ## Part of the "forbidden secret math" driver series
 
-They make real chips, then keep selling them with drivers they know are broken. The bug reports pile up and get
-ignored. The firmware is locked so nobody else can fix it. The out-of-tree driver rots until the device is e-waste,
-and the next product ships with the same problems. This series does the job they keep sweeping under the rug:
+They make real chips, then keep selling them with drivers they know are broken. Half the features the silicon
+supports never make it into the driver at all. Nobody even files bug reports anymore: the $5 dongle just doesn't
+work, and it ends up in a drawer. The firmware is locked so nobody else can fix it. The out-of-tree driver rots until
+the device is e-waste, and the next product ships with the same problems. This series does the job they keep sweeping under the rug:
 well-maintained, feature-complete open replacements, so their code and patent troll behaviours can be deleted and
 forgotten.
 
