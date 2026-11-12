@@ -3,6 +3,16 @@
 Open, clean-room replacements for the closed parts of Imagination Technologies' PowerVR GPU stack, so you can run
 these GPUs without Imagination's proprietary code and eventually forget it ever existed.
 
+## Part of the "forbidden secret math" driver series
+
+This repository is one of a series that replaces closed-source drivers and firmware with well-maintained,
+feature-complete open solutions. The closed path stays in use until its open replacement matches it on every feature
+and measures as good or better.
+
+- [i_hate_realtek](https://github.com/DaveWK/i_hate_realtek): Realtek firmware and drivers
+- [i_hate_powervr](https://github.com/DaveWK/i_hate_powervr): PowerVR GPU firmware (Rust)
+- [design_deez](https://github.com/DaveWK/design_deez): Synopsys DesignWare (DDR PHY training first)
+
 ## Why
 
 The Linux kernel driver (`drivers/gpu/drm/imagination`) and Mesa's PowerVR driver are open source. The GPU still won't
